@@ -1,7 +1,7 @@
 <h1>Hi I'm Gabriel and welcome to my profile!😄</h1>
 
 - 🔭 I am currently looking for working in front-end development!
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning JS ES6+.
 <br>
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
